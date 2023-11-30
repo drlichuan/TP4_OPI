@@ -1,6 +1,67 @@
-<<<<<<< HEAD
-ksjdashdcf hlnerhfoxlmisdukn
+Exo1
+2. Les repertoires crées sont : branches hooks info objects refs
 
-=======
-usydfkushvgs
->>>>>>> bbe87e44b0222647c92843e9b46a8eb826e055ea
+4. tout les fichiers sont des fichiers non suivis 
+
+5. mon fichier a pour status "Modifications qui seront validée"
+
+7. le status du repertoire contient désormais que les fichiers initiaux en non suivis
+
+8.log -p donne l'historique des commit
+
+9. git diff affiche les modifications des fichiers modifié
+
+12. mon fichier txt et un fichier README
+
+ 
+Exo2
+
+2.TP4_OPI
+
+3.Sur la branche main
+Votre branche est à jour avec 'origin/main'.
+
+rien à valider, la copie de travail est propre
+
+11. met à jour mes modifications dans le serveur
+
+
+Exo3
+
+Q1. monprogramme &
+
+Q2. /
+
+Q3. cd  
+
+cd ~
+
+Q4. 
+
+
+/HOME/Documents:
+TP
+
+/HOME/Bureau:
+
+/Home/Images:
+IMG216.jpg IMG317.jpg
+
+Q5. mv ~/HOME/Documents/TO/TP1/ex2.c ~/HOME/Images/IMG216.jpg ~/HOME/Documents/TP/TP2
+
+Q6.
+
+-Ajouter le chemin du répertoire qui contient a.out dans la variable PATH.
+-Changer les droit d’accès au fichier a.out.
+
+Q7. 1
+
+Q8.
+
+commande_qui_peut_generer_une_erreur 2>/dev/null
+
+Q9.La commande ps -ef | grep -c evince est utilisée pour déterminer le nombre de processus en cours d'exécution sur le système qui ont "evince" comme partie de leur nom ou de leur commande.
+
+Q10. chmod g+r,g+w file1
+
+Q11.la commande affichera les lignes du fichier CSV où le statut (cinquième colonne) est "Non"
