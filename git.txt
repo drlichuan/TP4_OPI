@@ -4,37 +4,20 @@ auteur :     Inessa KECHEK
 date :    30/11/2023
 
 
-é
-
-
 EXERCICE 1 : Travailler seule avec GIT
 
 2. Le répertoire .git a été créé
 
 
-4. Nous obtenons le message d'erreur suivant : 
-On branch master
-
-No commits yet
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	git.txt
-
-nothing added to commit but untracked files present (use "git add" to track)
+4. Nous n'avons pas fait de commit encore. Le fichier git.txt n'est pas suivi par Git.
 
 
-5. Maintenant nous obtenons le message suivant :
-On branch master
-
-No commits yet
-
-Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
-	new file:   git.txt
+5. Maintenant que le fichier git.txt est suivi par Git, il y a eu des changements à la zone de préparation et ces changements sont prets à
+etre inclus dans le prochain commit.
 
 
 7. Le status du répertoire est :
+
 On branch master
 Changes not staged for commit:
   (use "git add <file>..." to update what will be committed)
@@ -43,5 +26,12 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
-8. Cette commande renvoie la partie du fichier qu'on a commité ainsi que le message du commit "Un super message"
+Il y a des modifications dans le répertoire de travail qui n'ont pas encore été ajoutées à la zone de préparation 
+en vue d'un prochain commit. 
 
+
+8. Cette commande renvoie la partie du fichier qu'on a commité, le message du commit "Un super message" ainsi que toutes les modifications
+qu'on a apporté au fichier (par exemple effacer des lignes) avec chaque commmit. Il renvoie aussi des informationssur l'auteur 
+du fichier et la date.
+
+9. git diff renvoie les nouvelles modifications qu'on a apporté au fichier depuis le dernier add/commit.
