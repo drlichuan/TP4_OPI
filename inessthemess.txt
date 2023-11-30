@@ -4,9 +4,4 @@ auteur :     Inessa KECHEK
 date :    30/11/2023
 
 
-<<<<<<< HEAD
-exercice 2 : question 4
-?
-=======
-exercice 2 : question 4
->>>>>>> d6955f0bc48387b710fc3287a8e80174a70833dc
+modifier la premiere ligne de votre fichier
