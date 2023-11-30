@@ -1,1 +1,0 @@
-"Modifier la premie`re ligne de votre fichier et celle de votre voisin."
