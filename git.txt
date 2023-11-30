@@ -1,0 +1,19 @@
+
+TP4                                      
+POLYTECH SORBONNE , FISE , OPI                                              
+auteur :     Inessa KECHEK                 
+date :    30/11/2023                       
+
+
+é
+
+
+EXERCICE 1 : Travailler seule avec GIT
+
+2. Le répertoire .git a été créé
+
+
+3. Nous obtenons le message d'erreur suivant : fatal: this operation must be run in a work tree
+
+
+4.
