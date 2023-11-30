@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 isjdfisuedfhisujernf
 Exercice2
+=======
+dfhvljqfhsgvhvhExercice2
+>>>>>>> bbe87e44b0222647c92843e9b46a8eb826e055ea
 ---------
 
 3)On branch main
