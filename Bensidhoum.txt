@@ -1,1 +1,138 @@
-ceci est la modification demandée à l'exo 2
+BENSIDHOUM
+Nicolas
+EISE
+TP A
+
+
+
+Exercice 1
+
+
+2. 
+Un répertoire .git est créé dans le répertoire courant. Dans le .git, on y retrouve un répertoires branches, hooks, info, objects et refs. 
+
+
+4. 
+Exécuter cette commande directement dans le répertoire .git envoie un message d'erreur. Il faut se placer dans le répertoire juste au dessus de l'arborescence.
+statut du fichier: Untracked files.
+
+
+5. 
+statut du fichier: Changes to bo committed. 
+
+
+7. 
+Cette fois, le terminal spécifie uniquement que je nous sommes dans le branch master. 
+
+
+8. 
+la commande git log -p affiche: 
+- la branche dans laquelle on se situe, ici master;
+- l'username du compte github et l'adresse mail lié au compte;
+- l'heure et la date de la dernière connection encore en cours au compte github;
+- le changement commité à la question 6. 
+
+
+9. 
+la commande git diff affiche ce qui a été modifié dans le fichier commité. 
+
+
+11. 
+Dans le dépôt que je viens de créer, il y a un fichier README.md. 
+
+
+12. 
+après avoir ajouter mon dépôt à l'aide de la commande git remote add tp4_opi https://github.com/Ramilone/tp4_opi.git, j'ai pu push mon fichier "test.txt" à l'aide de la commande git push tp4_opi. 
+cependant, le fichier test.txt s'est retrouvé dans un second branchement. 
+
+
+
+
+EXERCICE 3
+
+
+1. 
+Pour lancer un programme en arrière-plan, on ajoute à la commande le caractère "&". 
+
+
+2. 
+Pour appeler le répertoire racine sous GNU/Linux, on utilise le caractère "/". 
+
+
+3. 
+la commande permettant de toujours retourner à la racine de son compte est "cd". 
+
+
+4. 
+Cette commande affichera: 
+/HOME: 
+readme.txt
+
+/HOME/Documents: 
+TP
+
+/HOME/Bureau: 
+
+/HOME/Images:
+IMG216.jpg	IMG317.jpg
+
+
+5. 
+La commande a écrire est: 
+cp ~/HOME/Documents/TP/TP1/ex2.c ~/HOME/Images/IMG216.jpg 
+
+
+6. 
+Il faut ajouter le chemin d'accès du répertoire qui contient a.out dans la variable PATH. 
+
+
+7. 
+la commande echo ’’OPI c’est utile..’’ | wc -l renvoie '1'. 
+
+
+8. 
+command >/dev/null 2>&1
+
+
+9. 
+La commande ps -ef | grep -c evince permet d'afficher le nombre de processus actifs nommés "evince". 
+
+
+10.
+Pour ajouter les droit en lecture et en écriture au groupe panda sur le fichier file1, il faut exécuter la commande: 
+chmod g+rw file1. 
+
+
+11. 
+3224931	Non
+3284840	Non
+4035745	Non
+4210027	Non
+3673118	Non
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
